@@ -1,5 +1,4 @@
 # gitskills
 
 main 内容
-dev 更改
-dev 更改 2
+main 更改
